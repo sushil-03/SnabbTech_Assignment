@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=BIZ+UDPGothic:wght@400;700&family=Jost:wght@300;400;500;600;700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* src: url("/fonts/KvivType/Dmitry-Rastvortsev-KyivType-Sans-Black3.otf") */
+
+@font-face {
+  font-family: "KyivType";
+  src: url("/fonts/KvivType2/KyivTypeSans-Medium.otf") format("truetype");
+  font-weight: thin;
+  font-style: normal;
+}
+.customPasswordFamily {
+  font-family: caption;
+  letter-spacing: 5px;
+}
+
+.radio-input {
+  visibility: hidden;
+}
