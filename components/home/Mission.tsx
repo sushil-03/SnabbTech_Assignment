@@ -11,7 +11,7 @@ const Mission = () => {
         {missions.map((mission, index) => (
           <div
             key={index}
-            className="md:p-6 p-3 border border-active rounded-t-full flex items-center flex-col md:gap-4 gap-2  sm:w-60 w-48 gap-y-2"
+            className="md:p-6 p-3 border border-active rounded-t-full flex items-center flex-col md:gap-4 gap-2 lg:w-72  sm:w-60 w-48 gap-y-2"
           >
             <p>{index < 9 ? `0${index + 1}` : index + 1}</p>
             <p className="md:text-3xl text-xl font-medium">{mission.heading}</p>
