@@ -42,19 +42,20 @@ const Founder = () => {
             <span className="text-active">Abdoulaye </span> sont tous deux
             consultants et managers dans un groupe international de conseil en
             stratégie et management. Ils se sont rencontrés au Luxembourg et ont
-            beaucoup échangé sur leur expérience commune dans l'entrepreneuriat.
-            Tout au long de leurs discussions, une chose très claire est vite
-            apparue : leur passion pour l'entrepreneuriat et leur amour de
-            l'Afrique, le continent dont ils sont tous deux originaires. “
+            beaucoup échangé sur leur expérience commune dans
+            l&apos;entrepreneuriat. Tout au long de leurs discussions, une chose
+            très claire est vite apparue : leur passion pour
+            l&apos;entrepreneuriat et leur amour de l&apos;Afrique, le continent
+            dont ils sont tous deux originaires. “
           </p>
           <br />
           <br />
           <p>
-            Ils sont alors convaincus qu'ils peuvent répondre à un besoin
+            Ils sont alors convaincus qu&apos;ils peuvent répondre à un besoin
             critique en Afrique et avoir un réel impact en réunissant des
             experts de premier plan du monde entier pour collaborer avec des
             acteurs africains sur des projets visant à faire croître
-            l'écosystème de l'innovation en{" "}
+            l&apos;écosystème de l&apos;innovation en{" "}
             <span className="text-active"> Afrique</span>.
           </p>
         </div>

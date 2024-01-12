@@ -35,9 +35,9 @@ const Events = () => {
           </div>
           <div className="flex gap-10 flex-col">
             <p className="lg:w-3/5 w-full">
-              Sortez votre carnet d'adresses! Restez informés de tous les
+              Sortez votre carnet d&apos;adresses! Restez informés de tous les
               événements à venir autour du business en Afrique organisés en
-              Afrique ou à l'étranger.
+              Afrique ou à l&apos;étranger.
             </p>
             <Button
               value="Publier ou voir les événements "
@@ -59,8 +59,8 @@ const Events = () => {
 
           <div className=" font-biz font-semibold text-sm flex gap-3 flex-col ">
             <p>
-              L'événement:{" "}
-              <span className="text-active">The Nancy party’s</span>{" "}
+              L&apos;événement:{" "}
+              <span className="text-active">The Nancy party&apos;s</span>{" "}
             </p>
             <p>
               Date: <span className="text-active"> 10/07/22</span>{" "}

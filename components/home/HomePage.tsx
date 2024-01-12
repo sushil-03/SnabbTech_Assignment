@@ -19,8 +19,8 @@ const HomePage = () => {
               Vous êtes une entreprise privée ou publique basée en Afrique et
               vous avez du mal à recruter des profils expérimentés? Vous êtes
               une start-up africaine et vous souhaitez faire appel aux services
-              d'un prestataire externe? Vous recherchez une expertise spécifique
-              pour réaliser un futur projet?
+              d&apos;un prestataire externe? Vous recherchez une expertise
+              spécifique pour réaliser un futur projet?
             </p>
             <br />
             <p>
@@ -98,8 +98,8 @@ const HomePage = () => {
                 Vous êtes une entreprise privée ou publique basée en Afrique et
                 vous avez du mal à recruter des profils expérimentés? Vous êtes
                 une start-up africaine et vous souhaitez faire appel aux
-                services d'un prestataire externe? Vous recherchez une expertise
-                spécifique pour réaliser un futur projet?
+                services d&apos;un prestataire externe? Vous recherchez une
+                expertise spécifique pour réaliser un futur projet?
               </p>
               <br />
               <p>

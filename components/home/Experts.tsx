@@ -51,9 +51,9 @@ const Experts = () => {
         <div className="lg:w-3/5 w-full">
           <div className=" mx-auto">
             <p className=" lg:text-4xl md:text-3xl sm:text-2xl text-xl text-center font-medium  leading-snug  md:mt-20 mt-5 mb-6">
-              “ Mon rêve était d’aller vivre en Afrique. j'ai postulé à une
-              offre d'emploi pour le poste de web developer publiée sur PANDA et
-              le mois suivant je commençais à travailler à Dakar! ”
+              “ Mon rêve était d&apos;aller vivre en Afrique. j&apos;ai postulé
+              à une offre d&apos;emploi pour le poste de web developer publiée
+              sur PANDA et le mois suivant je commençais à travailler à Dakar! ”
             </p>
             <p className="text-active text-end">Omar Ndiaye</p>
           </div>

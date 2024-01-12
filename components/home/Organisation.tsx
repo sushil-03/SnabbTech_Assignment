@@ -11,7 +11,7 @@ const Organisation = () => {
           <div className=" mx-auto">
             <p className=" lg:text-4xl md:text-3xl sm:text-2xl text-xl text-center font-medium  leading-snug  lg:mt-20 mt-5 mb-6">
               “PANDA nous donne accès aux meilleurs talents dans leur domaine
-              d'activité et à de réelles perspectives de collaboration! ”
+              d&apos;activité et à de réelles perspectives de collaboration! ”
             </p>
             <p className="text-active lg:text-start  text-end pl-8">
               LGB Company
@@ -65,7 +65,8 @@ const Organisation = () => {
           <div className="flex gap-10 flex-col">
             <p className="w-3/4">
               Trouvez les experts que vous recherchez, publiez vos offres
-              d'emploi et d'autres contenus exclusifs sur votre organisation!{" "}
+              d&apos;emploi et d&apos;autres contenus exclusifs sur votre
+              organisation!{" "}
             </p>
             <div className=" gap-4 lg:hidden flex">
               <div className="h-1 w-20  rounded-md flex">
