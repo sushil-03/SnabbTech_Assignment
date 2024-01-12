@@ -11,14 +11,14 @@ const Company = () => {
         <div className=" lg:w-3/5 w-full flex justify-between flex-col  lg:h-96 h-48 ">
           <div className="md:text-5xl sm:text-4xl text-3xl gap-1  font-medium flex md:flex-col sm:flex-row flex-col">
             <span>Offres</span>
-            <span>d'emploi</span>
+            <span>d&apos;emploi</span>
           </div>
 
           <div className="flex gap-10 flex-col">
             <p className="lg:w-3/4 w-full sm:text-base text-sm mt-2">
-              Publiez les offres d'emploi au sein de votre organisation auprès
-              de notre communauté d'experts! Expert à la recherche d'un emploi
-              en Afrique? Trouvez le job de vos rêves!
+              Publiez les offres d&apos;emploi au sein de votre organisation
+              auprès de notre communauté d&apos;experts! Expert à la recherche
+              d&apos;un emploi en Afrique? Trouvez le job de vos rêves!
             </p>
             <Button
               value="Publier ou postuler à une offre d'emploi"
