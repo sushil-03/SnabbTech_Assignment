@@ -38,7 +38,7 @@ const Founder = () => {
         </div>
         <div className=" w-[340px] border border-light-gray rounded-t-full px-12 pt-20 pb-6 text-sm ">
           <p>
-            " <span className="text-active">Sarah</span> et{" "}
+            &quot;<span className="text-active">Sarah</span> et{" "}
             <span className="text-active">Abdoulaye </span> sont tous deux
             consultants et managers dans un groupe international de conseil en
             stratégie et management. Ils se sont rencontrés au Luxembourg et ont
@@ -46,7 +46,7 @@ const Founder = () => {
             l&apos;entrepreneuriat. Tout au long de leurs discussions, une chose
             très claire est vite apparue : leur passion pour
             l&apos;entrepreneuriat et leur amour de l&apos;Afrique, le continent
-            dont ils sont tous deux originaires. “
+            dont ils sont tous deux originaires. &quot;
           </p>
           <br />
           <br />
@@ -62,11 +62,12 @@ const Founder = () => {
       </div>
       <div className="lg:w-4/5 w-full mx-auto">
         <p className=" md:text-3xl sm:text-2xl text-xl text-center font-medium  leading-snug  mt-20 mb-6">
-          “ Notre objectif est de capturer et partager les connaissances, les
-          expertises et les réseaux afin de créer des opportunités illimitées,
-          que ce soit pour les acteurs africains à la recherche des meilleures
-          talents pour développer leurs activités ou pour les experts du monde
-          entier qui souhaitent lancer des projets innovants en Afrique. “
+          &quot; Notre objectif est de capturer et partager les connaissances,
+          les expertises et les réseaux afin de créer des opportunités
+          illimitées, que ce soit pour les acteurs africains à la recherche des
+          meilleures talents pour développer leurs activités ou pour les experts
+          du monde entier qui souhaitent lancer des projets innovants en
+          Afrique. &quot;
         </p>
         <p className="text-active text-end">Sarah et Abdoulaye</p>
       </div>

@@ -10,8 +10,9 @@ const Footer = () => {
     <div className="font-jost md:my-10 my-2 flex md:gap-10 gap-5 flex-col ">
       <div className="md:w-4/5 w-full mx-auto">
         <p className=" md:text-3xl sm:text-2xl text-xl gap-1  text-center font-medium  leading-snug  mt-20 mb-6">
-          “ Rejoignez notre communauté et aidez-nous à construire la première
-          plateforme de networking en ligne à destination du marché africain!“
+          &quot; Rejoignez notre communauté et aidez-nous à construire la
+          première plateforme de networking en ligne à destination du marché
+          africain!&quot;
         </p>
         <div className="flex flex-row  justify-center gap-8 my-20">
           <Button value="Se connecter" type="primary" onClick={() => {}} />
